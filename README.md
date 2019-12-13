@@ -14,4 +14,4 @@ Some small features of imgui
 
 ## Snapshot
 
-![screenshot demo](https://raw.githubusercontent.com/MiroKaku/imgui-idea/blob/master/snapshot/imgui.gif)
+![screenshot demo](https://github.com/MiroKaku/imgui-idea/raw/master/snapshot/imgui.gif)
